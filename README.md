@@ -66,16 +66,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmolla)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanmolla&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ayanmolla)
+
+<hr>
+
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayanmolla)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
------
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

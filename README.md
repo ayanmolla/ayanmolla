@@ -95,12 +95,4 @@
 
 </div>
 
-
-![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
-
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 ---

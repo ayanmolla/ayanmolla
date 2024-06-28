@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Front-end developer
-- Currently learning mern stack Development by PSPL Computer Center
+- Currently learning mern stack Development by JNNYCTC Computer Center
 
 <br><br>
 

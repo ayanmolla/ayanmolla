@@ -18,9 +18,7 @@
 <br>
 
 - A passionate Front-end developer
-- Watching Amine at spare time
-- Currently learning Web Development by PSPL Computer Center
-- Hobby travelling
+- Currently learning mern stack Development by PSPL Computer Center
 
 <br><br>
 

@@ -19,6 +19,7 @@
 
 - A passionate Front-end developer
 - Currently learning mern stack Development by JNNYCTC Computer Center
+- How to reach me ayanmolla746@gmail.com
 
 <br><br>
 

@@ -20,6 +20,7 @@
 - A passionate Front-end developer
 - Currently learning mern stack Development by JNNYCTC Computer Center
 - How to reach me ayanmolla746@gmail.com
+- My live project https://www.chasingdeltaalgo.com/
 
 <br><br>
 

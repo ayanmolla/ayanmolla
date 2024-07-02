@@ -66,12 +66,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+
+
+<div align='center'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanmolla)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanmolla&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ayanmolla)
 
+</div>
 
 
 

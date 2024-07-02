@@ -1,7 +1,4 @@
 
-
-
-<h1 align="center"><img src="file:///C:/Users/majhe/Downloads/Brown_Wood_Minimalist_Profile_LinkedIn_Banner__1_-removebg-preview.png" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Hallo!;I'm+Ayan.;Welcome+to+my+account.;I+am+a+student+of+class+10th;And+a+free+time+developer.;I+love+to+learn+new+stuffs..<3;Thank+you+for+visiting"></a>

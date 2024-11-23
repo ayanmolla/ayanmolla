@@ -31,7 +31,7 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C](file:///C:/Users/majhe/OneDrive/Documents/main/PSPL%20Computer/project/nature%20coin/image/landing-page-v2-mobile-apps-illustration.svg)
 
 <br>   
     

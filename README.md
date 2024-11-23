@@ -29,10 +29,6 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](file:///C:/Users/majhe/OneDrive/Documents/main/PSPL%20Computer/project/nature%20coin/image/landing-page-v2-mobile-apps-illustration.svg)
-
 <br>   
     
 - **Front-End Development**:

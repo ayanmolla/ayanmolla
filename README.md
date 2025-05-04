@@ -15,10 +15,13 @@
 
 <br>
 
+<p>
 - A passionate Front-end developer
 - Currently learning mern stack Development by JNNYCTC Computer Center
 - How to reach me ayanmolla746@gmail.com
 - My live project https://www.chasingdeltaalgo.com/
+</p>
+<img src ="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-bf78-61f7-bea2-7fbf634e45e1/raw?se=2025-05-04T07%3A02%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=ee7cf113-d805-5013-8dcf-bdb6fe327ff4&skoid=365eb242-95ba-4335-a618-2c9f8f766a86&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-04T03%3A38%3A03Z&ske=2025-05-05T03%3A38%3A03Z&sks=b&skv=2024-08-04&sig=RpjaM%2BwRcO79secr99pEKpX1qWvTn24htPhaVns5GH8%3D">
 
 <br><br>
 

@@ -21,6 +21,7 @@
 - How to reach me ayanmolla746@gmail.com
 - My live project https://www.chasingdeltaalgo.com/
 </p>
+
 <img src ="/mnt/data/ChatGPT_Image_May_4__2025__11_37_05_AM-removebg-preview.png">
 
 <br><br>

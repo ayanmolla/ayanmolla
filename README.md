@@ -14,13 +14,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-
-<p>
 - A passionate Front-end developer
 - Currently learning mern stack Development by JNNYCTC Computer Center
 - How to reach me ayanmolla746@gmail.com
 - My live project https://www.chasingdeltaalgo.com/
-</p>
 
 
 <br><br>
